@@ -1,0 +1,9 @@
+name: interview_trainer_env
+description: AI Interview Trainer using Gemini
+tasks:
+  - name: basic_question
+    difficulty: easy
+  - name: concept_explanation
+    difficulty: medium
+  - name: system_design
+    difficulty: hard
